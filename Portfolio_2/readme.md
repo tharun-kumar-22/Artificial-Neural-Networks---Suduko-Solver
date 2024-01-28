@@ -5,8 +5,9 @@
 - `Training_With_9m_1m_Games.ipynb` - Code for Model Training with 9 million and 1 million games in ipynb format.
 - `Best_TEST_preds.csv` - Best Test Predictions using the trained model.
 - `my_model.pt` - Trained model to predict digits (Task_1 model).
-- `Original_Dataset(folder)` - The folder which has our original dataset. This is deleted from Repo because it has more size.
+- `Original_Dataset(folder)` - The folder which has our original dataset. This is deleted from Repo because it has more size. Instead Drive Link is given:
 - `Prepared Dataset(folder)` - The folder which has prepared dataset for Task-2.
+- Drive Link: https://drive.google.com/drive/folders/16TmAAWODiRtSCQ32iFRT7GS2TO8nCJOg
 
 
 ## Links: 
